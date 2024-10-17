@@ -18,4 +18,5 @@
 # 8. Mengatur layout main dan sidebar
 ![image](https://github.com/user-attachments/assets/2893cd68-1848-4bd9-8d5c-4294c05dfe1a)
 # 9. Membuat Sidebar Widget
- 
+![image](https://github.com/user-attachments/assets/3169362e-25ef-4421-9b36-f04d2fc24e34)
+# 10. Mengatur Footer 
