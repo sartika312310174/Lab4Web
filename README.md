@@ -13,5 +13,7 @@
 ![image](https://github.com/user-attachments/assets/6dbfb674-5897-40cc-ad5f-16481ef1c3b7)
 # 6. Membuat Navigasi
 ![image](https://github.com/user-attachments/assets/1ab29b3d-8ffb-4fcb-96dc-a092408da019)
-
+# 7. Membuat Hero Panel
+![image](https://github.com/user-attachments/assets/c772a105-2676-421c-bf61-0ab65adf373b)
+# 8. Mengatur layout main dan sidebar
  
