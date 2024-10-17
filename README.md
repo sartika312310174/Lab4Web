@@ -20,3 +20,5 @@
 # 9. Membuat Sidebar Widget
 ![image](https://github.com/user-attachments/assets/3169362e-25ef-4421-9b36-f04d2fc24e34)
 # 10. Mengatur Footer 
+![image](https://github.com/user-attachments/assets/62659354-9c0a-418b-ab07-16f23f23ccd5)
+# 11. Menambahkan elemen lainnya pada main content
