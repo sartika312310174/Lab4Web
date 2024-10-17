@@ -16,4 +16,6 @@
 # 7. Membuat Hero Panel
 ![image](https://github.com/user-attachments/assets/c772a105-2676-421c-bf61-0ab65adf373b)
 # 8. Mengatur layout main dan sidebar
+![image](https://github.com/user-attachments/assets/2893cd68-1848-4bd9-8d5c-4294c05dfe1a)
+# 9. Membuat Sidebar Widget
  
