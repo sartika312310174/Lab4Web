@@ -11,5 +11,7 @@
 ![image](https://github.com/user-attachments/assets/60e6024d-5571-4d68-88e7-9270a095bb12)
 # 5. Menambahkan style css
 ![image](https://github.com/user-attachments/assets/6dbfb674-5897-40cc-ad5f-16481ef1c3b7)
+# 6. Membuat Navigasi
+![image](https://github.com/user-attachments/assets/1ab29b3d-8ffb-4fcb-96dc-a092408da019)
 
  
