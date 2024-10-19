@@ -30,6 +30,10 @@
 # validasi dengan dokumen html 
 ![Screenshot (506)](https://github.com/user-attachments/assets/b5cdefe2-7c88-423c-b779-dc54558521de)
 
+# Pertanyaan dan Tugas
+1. Tambahkan layout untuk menu About (buat single yang  berisi deskripsi, portofolio, dll)
+2. Tambahkan layout untuk menu Contact (yang berisi form isian: nama, email, message, dll)
+
 
 
 
