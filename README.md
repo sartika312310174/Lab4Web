@@ -32,7 +32,10 @@
 
 # Pertanyaan dan Tugas
 1. Tambahkan layout untuk menu About (buat single yang  berisi deskripsi, portofolio, dll)
-2. Tambahkan layout untuk menu Contact (yang berisi form isian: nama, email, message, dll)
+
+  
+
+3. Tambahkan layout untuk menu Contact (yang berisi form isian: nama, email, message, dll)
 
 
 
