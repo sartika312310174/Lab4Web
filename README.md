@@ -25,5 +25,11 @@
 ![image](https://github.com/user-attachments/assets/f16378ac-ee5b-4783-805b-44af82b06763)
 # 12. Menambahkan content artikel
 ![image](https://github.com/user-attachments/assets/e9a33a6b-5dbb-48ea-a87d-0fb6b31f504e)
+# validasi
+![Screenshot (505)](https://github.com/user-attachments/assets/8c16af0c-4f28-4717-8074-c9e906524a03)
+# validasi dengan dokumen html 
+![Screenshot (506)](https://github.com/user-attachments/assets/b5cdefe2-7c88-423c-b779-dc54558521de)
+
+
 
 
