@@ -23,4 +23,6 @@
 ![image](https://github.com/user-attachments/assets/62659354-9c0a-418b-ab07-16f23f23ccd5)
 # 11. Menambahkan elemen lainnya pada main content
 ![image](https://github.com/user-attachments/assets/f16378ac-ee5b-4783-805b-44af82b06763)
-# 12. 
+# 12. Menambahkan content artikel
+
+
