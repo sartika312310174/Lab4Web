@@ -34,7 +34,8 @@
 1. Tambahkan layout untuk menu About (buat single yang  berisi deskripsi, portofolio, dll)
 ![image](https://github.com/user-attachments/assets/1f5cdaa7-c93b-4645-b426-b9eacc6e1c9a)
 3. Tambahkan layout untuk menu Contact (yang berisi form isian: nama, email, message, dll)
-![image](https://github.com/user-attachments/assets/25c9dd16-b3bc-4994-927e-ba83610fa12a)
+![image](https://github.com/user-attachments/assets/6d876d05-8b45-4448-8ae9-f0eaf96c5847)
+
 
 
 
