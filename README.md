@@ -32,9 +32,10 @@
 
 # Pertanyaan dan Tugas
 1. Tambahkan layout untuk menu About (buat single yang  berisi deskripsi, portofolio, dll)
-![image](https://github.com/user-attachments/assets/ee7e24e4-361c-4215-99bf-288be38742fa)
+![image](https://github.com/user-attachments/assets/1f5cdaa7-c93b-4645-b426-b9eacc6e1c9a)
 3. Tambahkan layout untuk menu Contact (yang berisi form isian: nama, email, message, dll)
-![image](https://github.com/user-attachments/assets/64e37419-20fc-46c0-8dce-6e2b2dce7b66)
+![image](https://github.com/user-attachments/assets/4cb58cdd-78fb-45d6-86e2-d851e70fea5d)
+
 
 
 
