@@ -250,17 +250,18 @@ footer {
     margin: 20px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     float: left;
-    width: 100%;
+    width: 95%;
 }
 
 .h2, .contact{
+    
     text-align: center;
     float:inline-start ;
     color: #333;
 }
 
 .contact form input, .contact form textarea {
-    width: 100%;
+    width: 95%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
