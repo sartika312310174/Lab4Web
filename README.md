@@ -1,4 +1,5 @@
 # Lab4Web
+# Nama= Sartika Agustin, Nim=312310174, Kelas= TI.23.A2
 # 1. Membuat box elemen
 ![image](https://github.com/user-attachments/assets/ed245712-3a55-4e01-8db0-5db65b56e778)
 # 2. Menambahkan style css
